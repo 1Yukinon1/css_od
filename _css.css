@@ -1,0 +1,59 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: red;
+}
+
+ul[name="menu"] {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    right: 50px;
+}
+
+
+li[name="menu-li"] {
+    display: inline;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color: Purple;
+}
+
+p[name="main-p"] {
+    text-align: center;
+    font-weight: bold;
+}
+
+p[id="1"] {
+    text-align: center;
+    color: #afc21e;
+}
+
+ul[name="muzik-aletleri"] {
+    text-align: center;
+    position: relative;
+    list-style-position: inside;
+    right: 50px;
+}
+
+h4{
+    color: #afc21e;
+}
+
+ul[name="urunler-list"] {
+    list-style-type: decimal;
+    list-style-position: inside;
+    text-align: center;
+}
+
+img{
+    height: 300px;
+}
